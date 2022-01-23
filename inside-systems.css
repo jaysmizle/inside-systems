@@ -88,7 +88,7 @@ ul.notion-bulleted-list {
   padding: 0 !important;
 }
 ul.notion-bulleted-list li:before {
-  content: "â€“" !important;
+  content: "&mdash;" !important;
   display: inline-block !important;
   text-indent: calc(1rem * -1.25) !important;
 }
