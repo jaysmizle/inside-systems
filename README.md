@@ -1,2 +1,2 @@
 # inside-systems
-Just a place where I host and tinker with my website's CSS.
+Just a place where I tinker with my website's CSS.
